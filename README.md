@@ -11,13 +11,16 @@ In this aspect I was sucessful and create a design I am satisfied in.
 
 ---
 <img width="957" height="474" alt="Screenshot 2026-06-03 at 10 05 50 PM" src="https://github.com/user-attachments/assets/ee82c4af-c13e-4a82-8c56-6c5696b7a82e" />
+
 Here is the top of the PCB CAD design!
 
 <img width="1052" height="527" alt="Screenshot 2026-06-03 at 10 06 14 PM" src="https://github.com/user-attachments/assets/fecd6968-337a-4c51-a886-67008463dcf2" />
-This is the bottom
+
+This is the bottom...
 
 <img width="962" height="530" alt="Screenshot 2026-06-03 at 10 05 21 PM" src="https://github.com/user-attachments/assets/d92fb142-68e8-48e1-9774-8d69f23cedd9" />
-The this a side view showing how I used both the top and the bottom side of the PCB to get my wirings to fit onto to the PCB.
+
+This a side view showing how I used both the top and the bottom side of the PCB to get my wirings to fit onto to the PCB.
 
 ---
 
