@@ -26,10 +26,8 @@ Instead of focusing on data/power transfer, I would like to build a flight contr
 
 ---
 things that ive learned:
-
-    PBC CAD
-    Wiring
+- PBC CAD
+- Wiring
 
 things to improve:
-
-    Complexity
+- Complexity
