@@ -24,3 +24,12 @@ The this a side view showing how I used both the top and the bottom side of the 
 In the future I would like to create some more CADED PCB Designs!
 Instead of focusing on data/power transfer, I would like to build a flight controller or something bigger to use in a future hardware project!
 
+---
+things that ive learned:
+
+    PBC CAD
+    Wiring
+
+things to improve:
+
+    Complexity
