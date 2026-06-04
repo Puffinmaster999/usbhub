@@ -2,12 +2,14 @@
 CREATED FOR HACKCLUB!!!
 
 This was one of the guides that exsists in Hackclub Macondo!
-The guide I followed was created by [Rudy])(https://github.com/Outdatedcandy92)
+The guide I followed was created by [Rudy](https://github.com/Outdatedcandy92)
 ---
 I used [easyEDA Pro](https://pro.easyeda.com/) to create this usb hub
 The goal of this project was to be able to connect one usb-c wire to 2 usb-c ports and 2 usb-a ports.
 
-In this aspect I was sucessful and create a design I am satisfied in.
+In this aspect I was sucessful and create a design I am satisfied in!
+If you would like to take a look the .step file
+Furthermore the BOM, and Pick and Place are also provided!
 
 ---
 <img width="957" height="474" alt="Screenshot 2026-06-03 at 10 05 50 PM" src="https://github.com/user-attachments/assets/ee82c4af-c13e-4a82-8c56-6c5696b7a82e" />
