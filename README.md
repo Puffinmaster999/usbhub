@@ -1,4 +1,4 @@
-#USB-Hub
+# USB-Hub
 CREATED FOR HACKCLUB!!!
 
 This was one of the guides that exsists in Hackclub Macondo!
@@ -12,7 +12,7 @@ If you would like to take a look the .step file
 Furthermore the BOM, and Pick and Place are also provided!
 
 ---
-<img width="957" height="474" alt="Screenshot 2026-06-03 at 10 05 50 PM" src="https://github.com/user-attachments/assets/ee82c4af-c13e-4a82-8c56-6c5696b7a82e" />
+<img width="957" height="474" alt="Screenshot 2026-06-03 at 10 05 50 PM" src="https://github.com/user-attachments/assets/4814ccf7-9ce7-4461-8e04-d8b1509ec451" />
 
 Here is the top of the PCB CAD design!
 
@@ -30,9 +30,9 @@ In the future I would like to create some more CADED PCB Designs!
 Instead of focusing on data/power transfer, I would like to build a flight controller or something bigger to use in a future hardware project!
 
 ---
-things that ive learned:
+### things that ive learned:
 - PBC CAD
 - Wiring
 
-things to improve:
+### things to improve:
 - Complexity
